@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import sys
+
 try:
     import Image
 except ImportError:
