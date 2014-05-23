@@ -10,5 +10,5 @@ setup(
   download_url = 'https://github.com/evuez/python-rescale/tarball/0.1',
   keywords = ['image', 'scale', 'crop', 'resize'],
   classifiers = [],
-  install_requires=['PIL'],
+  install_requires=['Pillow'],
 )
